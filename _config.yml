@@ -9,7 +9,7 @@ description: "Tokyo Tech rockerzzzz :P"
 # Team names, titles and social links
 people:
 - name: Shreya Thusoo
-  pic: #
+  pic: shreya
   position: President
   social:
     - title: twitter
@@ -18,7 +18,7 @@ people:
       url: #
 
 - name: Rajiv Mishra
-  pic: #
+  pic: rajiv
   position: General Secretary
   social:
     - title: twitter
@@ -27,7 +27,7 @@ people:
       url: #
 
 - name: Sameer Deshmukh
-  pic: #
+  pic: sameer
   position: Webmaster
   social:
     - title: twitter
@@ -36,7 +36,7 @@ people:
       url: #
 
 - name: Ritesh Saini
-  pic: #
+  pic: ritesh
   position: Public Relations Officer
   social:
     - title: twitter
@@ -45,7 +45,7 @@ people:
       url: #
 
 - name: Vigneshwaran Krishnamurthy
-  pic: #
+  pic: vignesh
   position: TISA Representative
   social:
     - title: twitter
@@ -54,7 +54,7 @@ people:
       url: #
 
 - name: Ronit Kumar
-  pic: #
+  pic: ronit
   position: Treasurer
   social:
     - title: twitter
@@ -63,7 +63,7 @@ people:
       url: #
 
 - name: Karthik Rampalli
-  pic: #
+  pic: kartik
   position: Cultural Event Manager, Embassy Event Manager
   social:
     - title: twitter
@@ -72,7 +72,7 @@ people:
       url: #
 
 - name: Sindhu Bharatwaj
-  pic: #
+  pic: sindhu
   position: Cultural Event Manager, Academic Event Manager
   social:
     - title: twitter
@@ -81,7 +81,7 @@ people:
       url: #
 
 - name: Deepshikha Nair
-  pic: #
+  pic: deepshikha
   position: Embassy Event Manager
   social:
     - title: twitter
