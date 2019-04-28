@@ -3,7 +3,7 @@ baseurl:
 # Site settings
 title: Indian Students Association of Tokyo Tech
 email: isatitech@gmail.com
-description: "Tokyo Tech rockerzzzz :P"
+description: "Official website of the Indian Students Association of Tokyo Tech"
 
 
 # Team names, titles and social links
@@ -11,83 +11,38 @@ people:
 - name: Shreya Thusoo
   pic: shreya
   position: President
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
 
 - name: Rajiv Mishra
   pic: rajiv
   position: General Secretary
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
 
 - name: Sameer Deshmukh
   pic: sameer
   position: Webmaster
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
 
 - name: Ritesh Saini
   pic: ritesh
   position: Public Relations Officer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
 
 - name: Vigneshwaran Krishnamurthy
   pic: vignesh
   position: TISA Representative
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
 
 - name: Ronit Kumar
   pic: ronit
   position: Treasurer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
 
 - name: Karthik Rampalli
   pic: kartik
   position: Cultural Event Manager, Embassy Event Manager
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
 
-- name: Sindhu Bharatwaj
+- name: Sindhu Sreeranga
   pic: sindhu
   position: Cultural Event Manager, Academic Event Manager
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
 
 - name: Deepshikha Nair
   pic: deepshikha
   position: Embassy Event Manager
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
